@@ -9,6 +9,9 @@ products:
   - id: 7yr5iwga
     manufacturer: Parkside
     model: PMRC 250 Ai Bluetooth
+  - id: xgzs0idqktqk3or6
+    manufacturer: Parkside
+    model: PPAMR 1250 A1 Smart & Free
 entities:
   - entity: lawn_mower
     dps:
