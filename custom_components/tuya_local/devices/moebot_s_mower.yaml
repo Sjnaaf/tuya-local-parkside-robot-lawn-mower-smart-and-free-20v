@@ -12,6 +12,9 @@ products:
   - id: e1kb6ybg
     manufacturer: Parkside
     model: PPAMR 1250 A1 Smart & Free
+  - id: bf4fdadda7b7e0ed54vlkk
+    manufacturer: Parkside
+    model: PPAMR 1250 A1 Smart & Free
 entities:
   - entity: lawn_mower
     dps:
